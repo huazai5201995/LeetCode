@@ -1,2 +1,5 @@
-# -
-学习笔记
+#leetcode 
+#python
+#C++ 
+#C 
+
