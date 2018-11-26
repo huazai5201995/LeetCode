@@ -1,5 +1,4 @@
 #leetcode 
-#python
-#C++ 
-#C 
-
+python
+C++ 
+C 
